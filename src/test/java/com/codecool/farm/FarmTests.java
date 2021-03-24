@@ -6,6 +6,7 @@ import com.codecool.farm.animal.Pig;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import cccr.CCCRTestExecutionListener;
+import org.junit.jupiter.api.extension.ExtendWith;
 
 import java.util.ArrayList;
 import java.util.List;
